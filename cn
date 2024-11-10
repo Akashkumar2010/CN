@@ -12860,12 +12860,12 @@
     ],
     placement: {
       2022: {
-        description: "per the NIRF report 2024 released by Sri Siddhartha Academy of Higher Education, the median package offered during UG 4-year and UG 5-year placements 2023 stood at INR 4.5 LPA and INR 7.2 LPA, respectively. Further, the median package offered during PG 2-year and PG 3-year placements 2023 stood at INR 5 LPA and INR 14 LPA, respectively.....",
+        description: "per the NIRF report 2024 released by the university is  the median package offered during UG 4-year and UG 5-year placements 2023 stood at INR 4.5 LPA and INR 7.2 LPA, respectively. Further, the median package offered during PG 2-year and PG 3-year placements 2023 stood at INR 5 LPA and INR 14 LPA, respectively.....",
         topRecruiters: [-],
 
         careerCenter:
           "The Career Resource Center at the University ensured top placement results in 2023.",
-        totalOffers: 1140+,
+        totalOffers: 593+,
       },
       2023: {
         description:
@@ -12873,7 +12873,7 @@
         topRecruiters: [-],
         careerCenter:
           "The 2024 placements saw another round of success for our University with over 2000 offers.",
-        totalOffers: 1893+,
+        totalOffers: 593+,
       },
     },
     address: {
@@ -12953,6 +12953,1069 @@
       Type: "Deemed to be University",
       Affiliation: "UGC",
       Location: "Mangalore, Karnataka",
+      "Exam Frequency": "Semester",
+      "Courses Offered": "Undergraduate, Postgraduate, Doctoral",
+      "Contact Details": "Ask@Carriersnavigators.com",
+    },
+  },
+  {
+    _id: "doc39",
+    name: "Gandhi Institute of Technology and Management (GITAM)",
+    logo : "https://upload.wikimedia.org/wikipedia/en/a/a6/Gandhi_Institute_of_Technology_and_Management_logo.jpg",
+    image:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/GITAM_Hyderabad_Campus.jpg/220px-GITAM_Hyderabad_Campus.jpg",
+    speciality: "Sciences & Technology ",
+    place: "Andhra Pradesh",
+    est: "Estd 1980",
+    anothername: "Deemed to be University",
+    agre: "UGC,A++ NAAC accredited",
+    location:"Visakhapatnam",
+    experience: "1 Year",
+    rating: "3", // Add this for the star rating
+    reviews: "300 + ",
+    degree: "Enigneering ",
+    field1: "Management studied",
+    field2: "Law",
+    field3: "Pharmacy",
+    field4: "Sciences",
+    field5: "Technology",
+    field6: "Medicine and Allied Sience",
+    field7: "Arts",
+    field8: "Humanities",
+    fees: 50,
+    about: //NOT MORE THAN 6 LInes
+      "GITAM University Visakhapatnam Campus is ranked 101-150 by NIRF 2023 under the Engineering category, 101-125 by NIRF 2023 under the Management category, and 101-150 by NIRF 2023 under the University (Overall) category.....",
+    overview:"GITAM University Visakhapatnam Campus is ranked 101-150 by NIRF 2023 under the Engineering category, 101-125 by NIRF 2023 under the Management category, and 101-150 by NIRF 2023 under the University (Overall) category. Gandhi Institute of Technology and Management, Visakhapatnam (GITAM) is a deemed university and was established in 1980. GITAM is recognised by the UGC and has various campuses which are located in Visakhapatnam, Hyderabad, Bengaluru, and GIMSR campus. GITAM Visakhapatnam has been accredited with the NAAC with Grade A++. GITAM University Vizag provides undergraduate, postgraduate, and research programmes under various schools of study.....", //Add more if ypu needed
+    questions: [
+      {
+        question: "What is the admission process?",
+        answer: "The admission process involves applying online...",
+      },
+      {
+        question: "What are the college's facilities?",
+        answer: "The college offers state-of-the-art laboratories, library...",
+      },
+      {
+        question: "What is the fee structure?",
+        answer:
+          "The fee structure varies by course, starting from ₹120,000 per year.",
+      },
+    ],
+    courses: [
+      {
+        name: "B.E. / B.Tech",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "₹ 1 0.23 L - 16.05 L ",
+      },
+      {
+        name: "B.Sc",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "₹ 3.16 L - 5.99 L Per Total",
+      },
+      {
+        name: "M.Sc.",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "₹ 1.54 L - 3.87 L Per Total",
+      },
+      {
+        name: "MBBS",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "₹ 1.14 Cr Per Total",
+      },
+      {
+        name: "M.E./M.Tech",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "₹ 2.26 L - 2.38 L Per Total",
+      },
+      {
+        name: "BBA ",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "₹ 4.19 L - 8.07 L Per Toatal",
+      },
+      {
+        name: "B.A.",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "₹ 3.31 L Per Total",
+      },
+      {
+        name: "B.Pharma",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "₹ 6.8 L - 7.15 L Per Total",
+      },
+      {
+        name: "B.Com",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "₹ 5.12 L - 5.39 L Per Total",
+      },
+      {
+        name: "MBA/PGDM",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "₹ 7.93 L - 10.19 L Per Total",
+      },
+      {
+        name: "MCA",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "₹ 3.87 L Per Total",
+      },
+      {
+        name: "M.A.",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "₹ 2.15 L - 13.36 L Per Total",
+      },
+      {
+        name: "MD",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "₹ 24 L - 1.16 Cr Per Total",
+      },
+      {
+        name: "BCA",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "₹ 3.31 L - 5.96 L Per Total",
+      },
+      {
+        name: "BPT",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "₹ 8.68 L Per Total",
+      },
+      {
+        name: "M.Pharma ",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "₹ 3.98 L Per Total",
+      },
+      {
+        name: "B.Arch",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "₹ 14.5 L Per Total",
+      },
+      {
+        name: "BBA LL.B. (Hons)",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "₹ 7.29 L Per Total",
+      },
+      {
+        name: "LL.M.",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "₹ 1.25 L - 1.32 L Per Total",
+      },
+      {
+        name: "MS",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "₹ 82.5 L - 89.1 L Per Total",
+      },
+      {
+        name: "B.A. LL.B. (Hons)",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "₹ 7.29 L Per Total",
+      },
+      {
+        name: "BOPTM",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "₹ 7.15 L Per Total",
+      },
+      {
+        name: "M.Arch",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "₹ 2.5 L Per Total",
+      },
+      {
+        name: "BMLT",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "₹ 4.38 L Per Total",
+      },
+      {
+        name: "Ph.D.",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "₹ 90 K Per Total",
+      },
+      
+    ],
+    placement: {
+      2022: {
+        description: "The institute concluded its placement drive for the Class of 2024. As per the latest report, the highest package offered during GITAM placements in 2024 stood at INR 46.50 LPA. Further, the participating recruiters offered over 3,500 job offers to various courses of the 2024 batch.....",
+        topRecruiters: ["Cognizant", "Deloitte", "Accenture", "Infosys", "Amazon", "HCL", "ICICI Bank", "HDFC Bank", "TCS"],
+
+        careerCenter:
+          "The Career Resource Center at the University ensured top placement results in 2023.",
+        totalOffers: 3500+,
+      },
+      2023: {
+        description:
+          "The institute concluded its placement drive for the Class of 2024. As per the latest report, the highest package offered during GITAM placements in 2024 stood at INR 46.50 LPA. Further, the participating recruiters offered over 3,500 job offers to various courses of the 2024 batch......",
+        topRecruiters: ["Cognizant", "Deloitte", "Accenture", "Infosys", "Amazon", "HCL", "ICICI Bank", "HDFC Bank", "TCS"],
+        careerCenter:
+          "The 2024 placements saw another round of success for our University with over 2000 offers.",
+        totalOffers: 3450+,
+      },
+    },
+    address: {
+      line1: "17th Cross, Richmond",
+      line2: "Circle, Ring Road, London",
+    },
+    facilities: [
+      {
+        name: "Campus",
+        icon: "https://cdn-icons-png.flaticon.com/128/182/182336.png",
+        rating: 4.5
+      },
+      {
+        name: "Comp Labs",
+        icon:"https://cdn-icons-png.flaticon.com/512/2393/2393605.png",
+        rating: 4.7
+      },
+      {
+        name: "Sports",
+        icon:"https://cdn-icons-png.flaticon.com/512/7438/7438654.png",
+        rating: 4.6
+      },
+      {
+        name: "Gym",
+        icon:"https://cdn-icons-png.flaticon.com/128/7984/7984880.png",
+        rating: 4.8
+      },
+      {
+        name: "Medical",
+        icon:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_R_yXNKqVkZkUW6c4lOkwIxSi2nurpSeDGQ&s",
+        rating: 4.2
+      },
+      {
+        name: "Cafeteria",
+        icon:"https://thumbs.dreamstime.com/b/cafeteria-diner-vector-signs-coffee-cup-smoke-fork-knife-plate-icon-symbols-restaurant-cafe-icons-cafeteria-123781463.jpg",
+        rating: 4.4
+      },
+      {
+        name: "Laboratory",
+        icon:"https://cdn-icons-png.flaticon.com/512/8711/8711362.png",
+        rating: 4.9
+      },
+      {
+        name: "Library",
+        icon:"https://cdn-icons-png.flaticon.com/512/9043/9043296.png",
+        rating: 4.7
+      },
+      {
+        name: "Auditorium",
+        icon:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7NFqGsDLmfJIEeyfHeq07mAFa_VpitXxDbQ&s",
+        rating: 4.3
+      },
+      {
+        name: "Hostel",
+        icon:"https://thumbs.dreamstime.com/b/hotel-icon-vector-set-white-background-eps-331976399.jpg",
+        rating: 4.6
+      }
+    ],       
+    rankings: [
+      {
+        year: "2022",
+        award:
+          "GITAM University received the Best University Award.",
+      },
+      {
+        year: "2023",
+        award: "Awarded for highest placement offers in Karnataka.",
+      },
+      {
+        year: "2024",
+        award: "GITAM University received the Best University Award.",
+      },
+    ],
+
+    highlights: {
+      Established: "1980",
+      Type: "Deemed to be University",
+      Affiliation: "UGC",
+      Location: "Visakhapatnam, AndhraPradesh",
+      "Exam Frequency": "Semester",
+      "Courses Offered": "Undergraduate, Postgraduate, Doctoral",
+      "Contact Details": "Ask@Carriersnavigators.com",
+    },
+  },
+  {
+    _id: "doc40",
+    name: "Koneru Lakshmaiah Education Foundation- [KLU], Guntur",
+    logo : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQznfe_1fWAIDtpE2xdPCg1G56p84nTR_l9ew&s",
+    image:"https://images.shiksha.com/mediadata/images/1618563674phpS4Gs9p.jpeg",
+    speciality: "Sciences & Technology ",
+    place: "Andhra Pradesh",
+    est: "Estd 2009",
+    anothername: "Deemed to be University",
+    agre: "AICTE, UGC, NAAC-A++",
+    location:"Guntur",
+    experience: "1 Year",
+    rating: "3", // Add this for the star rating
+    reviews: "300 + ",
+    degree: "Enigneering ",
+    field1: "Management studied",
+    field2: "Law",
+    field3: "Pharmacy",
+    field4: "Sciences",
+    field5: "Technology",
+    field6: "Medicine and Allied Sience",
+    field7: "Arts",
+    field8: "Humanities",
+    fees: 50,
+    about: //NOT MORE THAN 6 LInes
+      "K L University (KLU) is a  Deemed to be University, founded by Koneru Lakshmaiah Education Foundation and located in the Vaddeswaram Guntur District of Andhra Pradesh, offering academic programs at UG, PG, Doctoral, Post-Doctoral industry-focused courses. Now KL Deemed to be University is operational in Hyderabad.....",
+    overview:"K L University (KLU) is a  Deemed to be University, founded by Koneru Lakshmaiah Education Foundation and located in the Vaddeswaram Guntur District of Andhra Pradesh, offering academic programs at UG, PG, Doctoral, Post-Doctoral industry-focused courses. Now KL Deemed to be University is operational in Hyderabad. The University is recognized by the All India Council for Technical Education (AICTE), New Delhi has been accredited by the National Board of Accreditation, and is certified by ISO 9001 - 2015. It has been accredited by National Assessment and Accreditation Council (NAAC) with an ‘A’ grade......", //Add more if ypu needed
+    questions: [
+      {
+        question: "What is the admission process?",
+        answer: "The admission process involves applying online...",
+      },
+      {
+        question: "What are the college's facilities?",
+        answer: "The college offers state-of-the-art laboratories, library...",
+      },
+      {
+        question: "What is the fee structure?",
+        answer:
+          "The fee structure varies by course, starting from ₹120,000 per year.",
+      },
+    ],
+    courses: [
+      {
+        name: "Bachelor of Arts [BA] (Civil Services)",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "-",
+      },
+      {
+        name: "Bachelor of Hotel Management and Catering Technology [BHMCT]",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "-",
+      },
+      {
+        name: "Master of Arts [MA] (English)",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "₹ 1.54 L - 3.87 L Per Total",
+      },
+      {
+        name: "Master of Business Administration [MBA]",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "-",
+      },
+      {
+        name: "Master of Commerce [M.Com]",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "-",
+      },
+      {
+        name: "Master of Philosophy [M.Phil]",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "₹ 1.54 L - 3.87 L Per Total",
+      },
+      {
+        name: "Master of Science [M.Sc] + Master of Philosophy [M.Phil]",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "-",
+      },
+      {
+        name: "Master of Science [M.Sc] + Ph.D",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "-",
+      },
+      {
+        name: "Bachelor of Business Administration + Bachelor of Laws [BBALLB]",
+        duration: "5 Year",
+        type: "Full Time",
+        category: "UG",
+        fees: "₹175,000/-Per Year",
+      },
+      {
+        name: "Bachelor of Architecture [B.Arch]",
+        duration: "5 Year",
+        type: "Full Time",
+        category: "UG",
+        fees: "₹275,000/-Per Total",
+      },
+      {
+        name: "Bachelor of Business Administration [BBA]",
+        duration: "3 Year",
+        type: "Full Time",
+        category: "UG",
+        fees: "₹235,000/-Per Year",
+      },
+      {
+        name: "Bachelor of Computer Application [BCA]",
+        duration: "3 Year",
+        type: "Full Time",
+        category: "UG",
+        fees: "₹215,000/-Per Year",
+      },
+      {
+        name: "Bachelor of Pharmacy [B.Pharm]",
+        duration: "4 Year",
+        type: "Full Time",
+        category: "UG",
+        fees: "₹235,000/-Per Year",
+      },
+      {
+        name: "Bachelor of Science [B.Sc]",
+        duration: "3 Year",
+        type: "Full Time",
+        category: "UG",
+        fees: "₹175,000/-Per Year",
+      },{
+        name: "Bachelor of Technology [B.Tech]",
+        duration: "4 Year",
+        type: "Full Time",
+        category: "UG",
+        fees: "₹255,000/-Per Year",
+      },
+      {
+        name: "Bachelor of Technology [B.Tech] + Master of Technology [M.Tech]",
+        duration: "4 Year",
+        type: "Full Time",
+        category: "UG",
+        fees: "₹255,000/-Per Year",
+      },
+      {
+        name: "Bachelor of Law [L.L.B]",
+        duration: "3 Year",
+        type: "Full Time",
+        category: "UG",
+        fees: "₹125,000/-Per Year",
+      },
+
+      {
+        name: "Master of Laws [L.L.M]",
+        duration: "2 Year",
+        type: "Full Time",
+        category: "PG",
+        fees: "₹145,000/-Per Year",
+      },
+      {
+        name: "Bachelor of Business Administration [BBA] + Master of Business Administration [MBA]",
+        duration: "5 Year",
+        type: "FulTime",
+        category: "PG",
+        fees: "₹130,000/-Per Year",
+      },
+      {
+        name: "Bachelor of Technology [B.Tech] + Master of Business Administration [MBA]",
+        duration: "4 Year",
+        type: "FulTime",
+        category: "PG",
+        fees: "₹285,000/-Per Year",
+      },
+      {
+        name: "Master of Technology [M.Tech]",
+        duration: "2 Year",
+        type: "FulTime",
+        category: "PG",
+        fees: "₹135,000/-Per Year",
+      },
+      {
+        name: "Bachelor of Commerce [B.Com] {Hons.}",
+        duration: "3 Year",
+        type: "FulTime",
+        category: "UG",
+        fees: "₹175,000/-Per Year",
+      },
+      {
+        name: "Ph.D",
+        duration: "3 Year",
+        type: "FulTime",
+        category: "phD",
+        fees: "-",
+      },
+      {
+        name: "Bachelor of Business Administration [BBA] + Master of Business Administration [MBA]",
+        duration: "5 Year",
+        type: "FulTime",
+        category: "PG",
+        fees: "₹130,000/-Per Year",
+      },
+      {
+        name: "Master of Science [M.Sc]",
+        duration: "2 Year",
+        type: "FulTime",
+        category: "PG",
+        fees: "₹95,000/-Per Year",
+      },
+      {
+        name: "Bachelor of Fine Arts [BFA]",
+        duration: "5 Year",
+        type: "FulTime",
+        category: "PG",
+        fees: "₹135,000/-Per Year",
+      },
+      
+      
+    ],
+    placement: {
+      2022: {
+        description: "Placed Students: The number of placed students ranged from 2,389 to 2,839, showcasing successful outcomes for a large portion of the graduating class. Job Offers: Over 4,600 offers were made to students, indicating strong demand from recruiters.Highest Package: A standout achievement was the highest salary package of INR 58 Lakhs Per Annum (LPA). Average Package: The average package offered hovered around INR 9.79 LPA, reflecting the overall placement success..",
+        topRecruiters: ["Amazon", "Caterpillar", "Factset", "FLIPKART", "Idea Cellular", "THERMAX", "ThoughtWorks Technologies", "Deloitte", "HDFC Bank", "Intergraph Consulting Pvt. Ltd", "L&T ECC", "Reliance Industries Ltd.", "Transocean Inc.", "Wipro Technologies", "FMC Technologies", "Hindustan Coca-Cola Beverages Pvt. Ltd", "MU SIGMA BUSINESS SOLUTIONS LTD", "ADP Private Limited", "Indian Navy", "Kirloskar Group of Companies", "Cummins India Ltd", "Geometric PLM", "Honeywell", "Hyundai Motors", "SKF", "HCL Comnet", "Sasken Communications", "Airtel", "BSCPL Infrastructure Limited", "Convergys", "Bajaj Capital", "ICICI Bank", "United Online Inc.", "IOT Infrastructure and Energy Services Ltd.", "KEC", "Satyam Venture Engineering Services", "Amara Raja Batteries Limited"],
+
+        careerCenter:
+          "The Career Resource Center at the University ensured top placement results in 2023.",
+        totalOffers: 1392 +,
+      },
+      2023: {
+        description:
+          "The institute concluded its placement drive for the Class of 2024. As per the latest report, the highest package offered during GITAM placements in 2024 stood at INR 46.50 LPA. Further, the participating recruiters offered over 3,500 job offers to various courses of the 2024 batch......",
+        topRecruiters: ["Amazon", "Caterpillar", "Factset", "FLIPKART", "Idea Cellular", "THERMAX", "ThoughtWorks Technologies", "Deloitte", "HDFC Bank", "Intergraph Consulting Pvt. Ltd", "L&T ECC", "Reliance Industries Ltd.", "Transocean Inc.", "Wipro Technologies", "FMC Technologies", "Hindustan Coca-Cola Beverages Pvt. Ltd", "MU SIGMA BUSINESS SOLUTIONS LTD", "ADP Private Limited", "Indian Navy", "Kirloskar Group of Companies", "Cummins India Ltd", "Geometric PLM", "Honeywell", "Hyundai Motors", "SKF", "HCL Comnet", "Sasken Communications", "Airtel", "BSCPL Infrastructure Limited", "Convergys", "Bajaj Capital", "ICICI Bank", "United Online Inc.", "IOT Infrastructure and Energy Services Ltd.", "KEC", "Satyam Venture Engineering Services", "Amara Raja Batteries Limited"],
+        careerCenter:
+          "The 2024 placements saw another round of success for our University with over 2000 offers.",
+        totalOffers: 1392 +,
+      },
+    },
+    address: {
+      line1: "17th Cross, Richmond",
+      line2: "Circle, Ring Road, London",
+    },
+    facilities: [
+      {
+        name: "Campus",
+        icon: "https://cdn-icons-png.flaticon.com/128/182/182336.png",
+        rating: 4.5
+      },
+      {
+        name: "Comp Labs",
+        icon:"https://cdn-icons-png.flaticon.com/512/2393/2393605.png",
+        rating: 4.7
+      },
+      {
+        name: "Sports",
+        icon:"https://cdn-icons-png.flaticon.com/512/7438/7438654.png",
+        rating: 4.6
+      },
+      {
+        name: "Gym",
+        icon:"https://cdn-icons-png.flaticon.com/128/7984/7984880.png",
+        rating: 4.8
+      },
+      {
+        name: "Medical",
+        icon:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_R_yXNKqVkZkUW6c4lOkwIxSi2nurpSeDGQ&s",
+        rating: 4.2
+      },
+      {
+        name: "Cafeteria",
+        icon:"https://thumbs.dreamstime.com/b/cafeteria-diner-vector-signs-coffee-cup-smoke-fork-knife-plate-icon-symbols-restaurant-cafe-icons-cafeteria-123781463.jpg",
+        rating: 4.4
+      },
+      {
+        name: "Laboratory",
+        icon:"https://cdn-icons-png.flaticon.com/512/8711/8711362.png",
+        rating: 4.9
+      },
+      {
+        name: "Library",
+        icon:"https://cdn-icons-png.flaticon.com/512/9043/9043296.png",
+        rating: 4.7
+      },
+      {
+        name: "Auditorium",
+        icon:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7NFqGsDLmfJIEeyfHeq07mAFa_VpitXxDbQ&s",
+        rating: 4.3
+      },
+      {
+        name: "Hostel",
+        icon:"https://thumbs.dreamstime.com/b/hotel-icon-vector-set-white-background-eps-331976399.jpg",
+        rating: 4.6
+      }
+    ],       
+    rankings: [
+      {
+        year: "2022",
+        award:
+          "K L University received the Best University Award.",
+      },
+      {
+        year: "2023",
+        award: "Awarded for highest placement offers in AndhraPRadesh.",
+      },
+      {
+        year: "2024",
+        award: "K L University received the Best University Award.",
+      },
+    ],
+
+    highlights: {
+      Established: "Estd 2009",
+      Type: "Deemed to be University",
+      Affiliation: "AICTE, UGC, NAAC-A++",
+      Location: "Guntur, Andhra Pradesh",
+      "Exam Frequency": "Semester",
+      "Courses Offered": "Undergraduate, Postgraduate, Doctoral",
+      "Contact Details": "Ask@Carriersnavigators.com",
+    },
+  },
+  {
+    _id: "doc41",
+    name: "Sri Sathya Sai Institute of Higher Learning",
+    logo : "https://askusedu.com/wp-content/uploads/2023/02/logo-12.jpg",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTF0xrbMsT91DsIZy-UAmDeCd6-HNuIwksVw&s",
+    speciality: "Sciences & Technology ",
+    place: "Andhra Pradesh",
+    est: "Estd. 1981",
+    anothername: "Deemed to be University",
+    agre: "AICTE, UGC, NAAC-A++",
+    location:"Anantapur",
+    experience: "1 Year",
+    rating: "3", // Add this for the star rating
+    reviews: "300 + ",
+    degree: "Enigneering ",
+    field1: "Management studied",
+    field2: "Law",
+    field3: "Pharmacy",
+    field4: "Sciences",
+    field5: "Technology",
+    field6: "Medicine and Allied Sience",
+    field7: "Arts",
+    field8: "Humanities",
+    fees: 50,
+    about: //NOT MORE THAN 6 LInes
+      "Founded in 1981, Sri Sathya Sai Institute of Higher Learning, Anantapur is a distinguished institution located in the state of Andhra Pradesh. The institute offers a range of Degree and Diploma courses, which include UG, PG, After 10th and Doctorate. These courses are approved by the AICTE and are designed to be delivered in Full-Time mode.....",
+    overview:"Founded in 1981, Sri Sathya Sai Institute of Higher Learning, Anantapur is a distinguished institution located in the state of Andhra Pradesh. The institute offers a range of Degree and Diploma courses, which include UG, PG, After 10th and Doctorate. These courses are approved by the AICTE and are designed to be delivered in Full-Time mode. The institute offers various courses such as BBM/BMS, M.A, M.Sc, After 10th Diploma, Ph.D, B.A, B.Sc, B.Com, M.E./M.Tech, MBA/PGDM, B.Ed covering major streams such as Business & Management Studies, Humanities & Social Sciences, Science, Arts ( Fine / Visual / Performing ), Accounting & Commerce, Engineering, Teaching & Education. Courses are taught by experienced faculty members who are experts in English, Food & Nutrition, Mathematics, Computer Science, Chemistry, Physics, Biology, Computer Science Engineering and various other fields. The institute have 236 seats and it provides quality education at an affordable fee; ranging between INR 120,020, making these courses accessible to all, and allowing students to acquire knowledge and expertise in their chosen fields. Moreover, the institute provides excellent infrastructure facilities to support students' learning experiences, such as Hostel, Labs, Library, etc......", //Add more if ypu needed
+    questions: [
+      {
+        question: "What is the admission process?",
+        answer: "The admission process involves applying online...",
+      },
+      {
+        question: "What are the college's facilities?",
+        answer: "The college offers state-of-the-art laboratories, library...",
+      },
+      {
+        question: "What is the fee structure?",
+        answer:
+          "The fee structure varies by course, starting from ₹120,000 per year.",
+      },
+    ],
+    courses: [
+      {
+        name: "B.Sc.",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "-",
+      },
+      {
+        name: "MBA/PGDM",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "-",
+      },
+      {
+        name: "M.E./M.Tech",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "₹ 1.54 L - 3.87 L Per Total",
+      },
+      {
+        name: "B.Ed",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "-",
+      },
+      {
+        name: "B.Com",
+        duration: "-",
+        type: "FulTime",
+        category: "-",
+        fees: "-",
+      },
+      {
+        name: "B.A.",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "-",
+      },
+      {
+        name: "After 10th Diploma",
+        duration: "-",
+        type: "Full Time",
+        category: "-",
+        fees: "-",
+      },
+    ],
+    placement: {
+      2022: {
+        description: "The placement report for Sri Sathya Sai Institute of Higher Learning (SSSIHL Anantpur) is not available on the official website. However, according to the latest report, a total of 97 students were placed during SSSIHL MBA placements 2021...",
+        topRecruiters: [ "Mitraz Foundation", "MITRAz Foundation", "Linde India Ltd.", "Genpact", "Bid Ocean", "BPO/ITES", "Education/Teaching/Training", "IT-Software/Software Services", "Oil and Gas/Power/Infrastructure/Energy", "Foreign MNC"],
+
+        careerCenter:
+          "The Career Resource Center at the University ensured top placement results in 2023.",
+        totalOffers: 1392 +,
+      },
+      2023: {
+        description:
+          "The placement report for Sri Sathya Sai Institute of Higher Learning (SSSIHL Anantpur) is not available on the official website. However, according to the latest report, a total of 97 students were placed during SSSIHL MBA placements 2021.......",
+        topRecruiters: [ "Mitraz Foundation", "MITRAz Foundation", "Linde India Ltd.", "Genpact", "Bid Ocean", "BPO/ITES", "Education/Teaching/Training", "IT-Software/Software Services", "Oil and Gas/Power/Infrastructure/Energy", "Foreign MNC"],
+        careerCenter:
+          "The 2024 placements saw another round of success for our University with over 2000 offers.",
+        totalOffers: 1392 +,
+      },
+    },
+    address: {
+      line1: "17th Cross, Richmond",
+      line2: "Circle, Ring Road, London",
+    },
+    facilities: [
+      {
+        name: "Campus",
+        icon: "https://cdn-icons-png.flaticon.com/128/182/182336.png",
+        rating: 4.5
+      },
+      {
+        name: "Comp Labs",
+        icon:"https://cdn-icons-png.flaticon.com/512/2393/2393605.png",
+        rating: 4.7
+      },
+      {
+        name: "Sports",
+        icon:"https://cdn-icons-png.flaticon.com/512/7438/7438654.png",
+        rating: 4.6
+      },
+      {
+        name: "Gym",
+        icon:"https://cdn-icons-png.flaticon.com/128/7984/7984880.png",
+        rating: 4.8
+      },
+      {
+        name: "Medical",
+        icon:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_R_yXNKqVkZkUW6c4lOkwIxSi2nurpSeDGQ&s",
+        rating: 4.2
+      },
+      {
+        name: "Cafeteria",
+        icon:"https://thumbs.dreamstime.com/b/cafeteria-diner-vector-signs-coffee-cup-smoke-fork-knife-plate-icon-symbols-restaurant-cafe-icons-cafeteria-123781463.jpg",
+        rating: 4.4
+      },
+      {
+        name: "Laboratory",
+        icon:"https://cdn-icons-png.flaticon.com/512/8711/8711362.png",
+        rating: 4.9
+      },
+      {
+        name: "Library",
+        icon:"https://cdn-icons-png.flaticon.com/512/9043/9043296.png",
+        rating: 4.7
+      },
+      {
+        name: "Auditorium",
+        icon:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7NFqGsDLmfJIEeyfHeq07mAFa_VpitXxDbQ&s",
+        rating: 4.3
+      },
+      {
+        name: "Hostel",
+        icon:"https://thumbs.dreamstime.com/b/hotel-icon-vector-set-white-background-eps-331976399.jpg",
+        rating: 4.6
+      }
+    ],       
+    rankings: [
+      {
+        year: "2022",
+        award:
+          "Sri Sathya Sai Institute of Higher Learning received the Best University Award.",
+      },
+      {
+        year: "2023",
+        award: "Awarded for highest placement offers in AndhraPradesh.",
+      },
+      {
+        year: "2024",
+        award: "Sri Sathya Sai Institute of Higher Learning received the Best University Award.",
+      },
+    ],
+
+    highlights: {
+      Established: "Estd 1981",
+      Type: "Deemed to be University",
+      Affiliation: "AICTE, UGC, NAAC-A++",
+      Location: "Anantapur, Andhra Pradesh",
+      "Exam Frequency": "Semester",
+      "Courses Offered": "Undergraduate, Postgraduate, Doctoral",
+      "Contact Details": "Ask@Carriersnavigators.com",
+    },
+  },
+  {
+    _id: "doc42",
+    name: "Vignan's Foundation for Science, Technology and Research",
+    logo : "https://img.favpng.com/24/13/18/vignan-s-foundation-for-science-technology-research-vignan-institute-of-technology-and-science-vignan-engineering-college-png-favpng-DtBpnnAprxQG0rqSxfqHSG2x1.jpg",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS7raWKSTV8rFjmzFklWLIEcdAdmUpm4T96A&s",
+    speciality: "Sciences & Technology ",
+    place: "Andhra Pradesh",
+    est: "Estd. 1997",
+    anothername: "Deemed to be University",
+    agre: "AICTE, UGC, NAAC-A++",
+    location:"Guntur",
+    experience: "1 Year",
+    rating: "3", // Add this for the star rating
+    reviews: "300 + ",
+    degree: "Enigneering ",
+    field1: "Management studied",
+    field2: "Law",
+    field3: "Pharmacy",
+    field4: "Sciences",
+    field5: "Technology",
+    field6: "Medicine and Allied Sience",
+    field7: "Arts",
+    field8: "Humanities",
+    fees: 50,
+    about: //NOT MORE THAN 6 LInes
+      "Established in 2009, Vignan’s Foundation for Science, Technology, and Research (VFSTR) University, (Vignan University) is a Deemed to be University. It is approved by the University Grants Commission (UGC) and has been accredited with a grade of 'A' by the National Assessment and Accreditation Council (NAAC)......",
+    overview:"Established in 2009, Vignan’s Foundation for Science, Technology, and Research (VFSTR) University, (Vignan University) is a Deemed to be University. It is approved by the University Grants Commission (UGC) and has been accredited with a grade of 'A' by the National Assessment and Accreditation Council (NAAC). The university comprises 6 departments, including Computer Science Engineering, Electronics and Communication Engineering, Electrical and Electronics Engineering, Management Studies, Mechanical Engineering, and Information Technology. It also offers undergraduate, postgraduate, and doctoral programmes in Technology, Computer Science, Engineering, and Business Administration. Vignan's Foundation for Science, Technology, and Research has a panel of guest lecturers to inspire students in their respective careers and to give them tips and invaluable insights in every course. Most importantly, Vignan University courses are provided to students at reasonable fees, to enable students to acquire knowledge and skills in their preferred area of interest.......", //Add more if ypu needed
+    questions: [
+      {
+        question: "What is the admission process?",
+        answer: "The admission process involves applying online...",
+      },
+      {
+        question: "What are the college's facilities?",
+        answer: "The college offers state-of-the-art laboratories, library...",
+      },
+      {
+        question: "What is the fee structure?",
+        answer:
+          "The fee structure varies by course, starting from ₹120,000 per year.",
+      },
+    ],
+    courses: [
+      {
+        name: "B.Tech. in Computer Science and Engineering.",
+        duration: "4 years",
+        type: "Full Time",
+        category: "UG",
+        fees: "₹4 L - 14.4 L Per Total",
+      },
+      {
+        name: "MBA/PGDM",
+        duration: "4 years",
+        type: "FulTime",
+        category: "UG",
+        fees: "₹5.2 L",
+      },
+      {
+        name: "B.Sc.",
+        duration: "4 years",
+        type: "Full Time",
+        category: "UG",
+        fees: "₹2.4 L - 11.2 LPer Total",
+      },
+      {
+        name: "MCA",
+        duration: "4 years",
+        type: "FulTime",
+        category: "UG",
+        fees: "	2.4 L Per Total",
+      },
+      {
+        name: "B.Pharma",
+        duration: "4 years",
+        type: "Full Time",
+        category: "UG",
+        fees: "₹11.2 L Per Total",
+      },
+      {
+        name: "M.E./M.Tech",
+        duration: "4 years",
+        type: "FulTime",
+        category: "UG",
+        fees: "	1.1 L - 4 L Per Total",
+      },
+      {
+        name: "BBA",
+        duration: "4 years",
+        type: "Full Time",
+        category: "UG",
+        fees: "₹	5.4 L Per Total",
+      },
+      {
+        name: "M.Sc.",
+        duration: "4 years",
+        type: "FulTime",
+        category: "UG",
+        fees: "14.4 L Per Total",
+      },
+      {
+        name: "B.A. LL.B",
+        duration: "4 years",
+        type: "Full Time",
+        category: "UG",
+        fees: "₹ 4.5 L Per Total",
+      },
+      {
+        name: "M.A.",
+        duration: "4 years",
+        type: "FulTime",
+        category: "UG",
+        fees: "₹ 1.2 L Per Total",
+      },
+      {
+        name: "Ph.D. ",
+        duration: "4 years",
+        type: "Full Time",
+        category: "UG",
+        fees: "₹ 1.2 L Per Total",
+      },
+     
+    ],
+    placement: {
+      2022: {
+        description: "According to the data available in the official website, a total of 75 companies visited the campus during Vignan University placements 2022. Further, a total of 1,154 students were placed during Vignan University BTech placements 2022. The overall placement rate recorded during Vignan University placements 2022 was 100%. The top recruiters of Vignan University in recent past included leading companies such as TCS, Capgemini and Wipro...",
+        topRecruiters: ["TCS", "IBM", "Capgemini", "Hyundai", "Wipro", "Polaris", "Kotak", "NTT Data", "HCL", "Mindtree"],
+
+        careerCenter:
+          "The Career Resource Center at the University ensured top placement results in 2023.",
+        totalOffers: 1392 +,
+      },
+      2023: {
+        description:
+          "According to NIRF Report 2023, 1,052 BTech, 80 MTech and 78 MBA students were placed during Vignan University placements 2022. The median package offered to MBA students stood at INR 5.2 LPA. For BTech and MTech students, the median package offered was INR 7.05 LPA and INR 5.07 LPA, respectively....",
+        topRecruiters: ["TCS", "IBM", "Capgemini", "Hyundai", "Wipro", "Polaris", "Kotak", "NTT Data", "HCL", "Mindtree"],
+        careerCenter:
+          "The 2024 placements saw another round of success for our University with over 2000 offers.",
+        totalOffers: 1392 +,
+      },
+    },
+    address: {
+      line1: "17th Cross, Richmond",
+      line2: "Circle, Ring Road, London",
+    },
+    facilities: [
+      {
+        name: "Campus",
+        icon: "https://cdn-icons-png.flaticon.com/128/182/182336.png",
+        rating: 4.5
+      },
+      {
+        name: "Comp Labs",
+        icon:"https://cdn-icons-png.flaticon.com/512/2393/2393605.png",
+        rating: 4.7
+      },
+      {
+        name: "Sports",
+        icon:"https://cdn-icons-png.flaticon.com/512/7438/7438654.png",
+        rating: 4.6
+      },
+      {
+        name: "Gym",
+        icon:"https://cdn-icons-png.flaticon.com/128/7984/7984880.png",
+        rating: 4.8
+      },
+      {
+        name: "Medical",
+        icon:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_R_yXNKqVkZkUW6c4lOkwIxSi2nurpSeDGQ&s",
+        rating: 4.2
+      },
+      {
+        name: "Cafeteria",
+        icon:"https://thumbs.dreamstime.com/b/cafeteria-diner-vector-signs-coffee-cup-smoke-fork-knife-plate-icon-symbols-restaurant-cafe-icons-cafeteria-123781463.jpg",
+        rating: 4.4
+      },
+      {
+        name: "Laboratory",
+        icon:"https://cdn-icons-png.flaticon.com/512/8711/8711362.png",
+        rating: 4.9
+      },
+      {
+        name: "Library",
+        icon:"https://cdn-icons-png.flaticon.com/512/9043/9043296.png",
+        rating: 4.7
+      },
+      {
+        name: "Auditorium",
+        icon:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7NFqGsDLmfJIEeyfHeq07mAFa_VpitXxDbQ&s",
+        rating: 4.3
+      },
+      {
+        name: "Hostel",
+        icon:"https://thumbs.dreamstime.com/b/hotel-icon-vector-set-white-background-eps-331976399.jpg",
+        rating: 4.6
+      }
+    ],       
+    rankings: [
+      {
+        year: "2022",
+        award:
+          "Vignan University received the Best University Award.",
+      },
+      {
+        year: "2023",
+        award: "Awarded for highest placement offers in AndhraPradesh.",
+      },
+      {
+        year: "2024",
+        award: "Vignan University received the Best University Award.",
+      },
+    ],
+
+    highlights: {
+      Established: "Estd 2009",
+      Type: "Deemed to be University",
+      Affiliation: "AICTE, UGC, NAAC-A++",
+      Location: "Anantapur, Andhra Pradesh",
       "Exam Frequency": "Semester",
       "Courses Offered": "Undergraduate, Postgraduate, Doctoral",
       "Contact Details": "Ask@Carriersnavigators.com",
